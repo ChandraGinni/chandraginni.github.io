@@ -2739,6 +2739,7 @@ table.alt tfoot {
 
 .wrapper {
 	position: relative;
+	background-color: black;
 }
 
 .wrapper>.inner {
